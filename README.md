@@ -1,3 +1,7 @@
+<img width="1917" height="882" alt="Screenshot 2026-07-07 143118" src="https://github.com/user-attachments/assets/6aba2534-98f4-42bc-96c2-17b52d70e9a4" />
+
+<img width="1917" height="885" alt="Screenshot 2026-07-07 143011" src="https://github.com/user-attachments/assets/08020ebe-8542-47a2-80e9-33e388b81457" />
+
 # AI-Powered CSV Importer
 
 A full-stack application that transforms messy CSV files into structured CRM lead data using AI (Google Gemini). Upload any CSV — the AI figures out the column mapping.
